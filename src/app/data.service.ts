@@ -18,3 +18,6 @@ export class DataService {
       .pipe(map((result) => (this.result = result)));
   }
 }
+
+
+//Coded By ADITYA PRASAD NAYAK
